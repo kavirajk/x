@@ -1,7 +1,7 @@
 package x
 
 const (
-	version = "2.2"
+	version = "3.0"
 )
 
 func X() string {
